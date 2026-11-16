@@ -15,14 +15,15 @@
 
 <br/>
 
-```java
-public class Hirtic {
-    String   location  = "Bengaluru, India";
-    String   education = "B.Tech CSE, VIT Vellore '26";
-    String[] builds    = { "event-driven backends", "multi-tenant SaaS", "ML pipelines that explain themselves" };
-    String   status    = "open to work";
-}
-```
+<div align="center">
+
+**I build backends that don't fall over.**
+
+Bengaluru &nbsp;·&nbsp; VIT Vellore '26 &nbsp;·&nbsp; Java, Kafka, AWS, and whatever the problem needs
+
+Event-driven systems, multi-tenant SaaS, and ML that can explain itself. Currently looking for my first full-time engineering role.
+
+</div>
 
 <br/>
 

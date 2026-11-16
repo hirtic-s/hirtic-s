@@ -55,5 +55,16 @@ Event-driven systems, multi-tenant SaaS, and ML that can explain itself. Current
 
 ## 🏭 Experience
 
+<table>
+<tr>
+<td width="180" align="center" valign="middle">
+<img src="assets/yokogawa.png" alt="Yokogawa" width="160" />
+</td>
+<td valign="middle">
+
 **Yokogawa, UAE** — Software Engineering Intern
 Built Python automation and ML models (LSTM, XGBoost) on live industrial sensor data.
+
+</td>
+</tr>
+</table>

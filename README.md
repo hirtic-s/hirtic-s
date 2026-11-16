@@ -19,7 +19,7 @@
 
 **I build backends that don't fall over.**
 
-Bengaluru &nbsp;·&nbsp; VIT Vellore '26 &nbsp;·&nbsp; Java, Kafka, AWS, and whatever the problem needs
+Bengaluru &nbsp;·&nbsp; VIT Vellore '26 &nbsp;·&nbsp; Java, Spring Boot, Kafka, AWS, and whatever the problem needs
 
 Event-driven systems, multi-tenant SaaS, and ML that can explain itself. Currently looking for my first full-time engineering role.
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1116,100:6cb4e4&height=180&section=header&text=Hirtic&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Java%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20ML&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1116,100:6cb4e4&height=180&section=header&text=Hirtic Selvavinayagam&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Java%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20ML&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6CB4E4&center=true&vCenter=true&width=600&lines=Backend+engineer+who+ships+full+systems;Spring+Boot+%7C+Kafka+%7C+AWS+%7C+React;Open+to+software+engineering+roles" alt="Typing SVG" /></a>
 

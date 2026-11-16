@@ -27,7 +27,7 @@ Event-driven systems, multi-tenant SaaS, and ML that can explain itself. Current
 
 <br/>
 
-## 🧰 Toolbox
+## Toolbox
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Event-driven systems, multi-tenant SaaS, and ML that can explain itself. Current
 
 <br/>
 
-## 🏭 Experience
+## Experience
 
 <table>
 <tr>

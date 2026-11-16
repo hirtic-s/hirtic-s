@@ -8,6 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/hirtic.com-0f1116?style=for-the-badge&logo=googlechrome&logoColor=6cb4e4)](https://hirtic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5140-0893)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
@@ -23,49 +24,6 @@ Bengaluru &nbsp;·&nbsp; VIT Vellore '26 &nbsp;·&nbsp; Java, Kafka, AWS, and wh
 Event-driven systems, multi-tenant SaaS, and ML that can explain itself. Currently looking for my first full-time engineering role.
 
 </div>
-
-<br/>
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [InSure!](https://github.com/hirtic-s/InSure)
-Event-driven insurance fraud scoring. Claims flow through **Kafka** to an **XGBoost** model that returns a risk score with **SHAP** explanations a human can read.
-
-`Spring Boot` `Kafka` `FastAPI` `XGBoost` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 [AvailAPI](https://github.com/hirtic-s/AvailAPI)
-Multi-tenant API uptime monitoring. **Quartz**-scheduled health checks, incident tracking, SSL expiry alerts and shareable public status pages.
-
-`Spring Boot` `Spring Security` `Quartz` `React` `Nginx`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 [VanishVault](https://github.com/hirtic-s/vanishvault)
-Self-destructing file sharing. **AES-256** encrypted, password-protected, with expiry timers, burn-after-read and live access alerts over **WebSockets**.
-
-`Spring Boot` `WebSocket` `S3` `DynamoDB` `SES`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 [GooDeals](https://github.com/hirtic-s/GooDeals)
-Live price comparison across Amazon India and Flipkart on **Java 21 virtual threads**, with a **Gemini** assistant that turns "best phone under 40k" into a filtered search.
-
-`Spring Boot` `FastAPI` `Scrapling` `React` `Gemini`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -95,27 +53,7 @@ Live price comparison across Amazon India and Flipkart on **Java 21 virtual thre
 
 <br/>
 
-## 📜 Beyond the repos
+## 🏭 Experience
 
-- 🔬 **Published** — co-author of a Springer LNNS chapter on interpretable AI for predictive vehicle maintenance, ICADCML 2026 · [DOI](https://doi.org/10.1007/978-3-032-25087-2_16)
-- 🏭 **Yokogawa, UAE** — internship building Python automation and ML models (LSTM, XGBoost) on live industrial sensor data
-- 🎓 **Certified** — AWS Cloud Practitioner · Microsoft Azure AI Fundamentals
-
-<br/>
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hirtic-s&show_icons=true&hide_border=true&bg_color=0f1116&title_color=6cb4e4&icon_color=6cb4e4&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirtic-s&layout=compact&hide_border=true&bg_color=0f1116&title_color=6cb4e4&text_color=c9d1d9" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hirtic-s&theme=dark&hide_border=true&background=0f1116&ring=6cb4e4&fire=6cb4e4&currStreakLabel=6cb4e4" height="165" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6cb4e4,100:0f1116&height=100&section=footer" width="100%" />
-</div>
+**Yokogawa, UAE** — Software Engineering Intern
+Built Python automation and ML models (LSTM, XGBoost) on live industrial sensor data.
